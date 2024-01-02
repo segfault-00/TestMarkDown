@@ -1,3 +1,2 @@
 # Hello, Markdown!
-
-Here is a sample C++ code block:
+This is a **MarkdownView** in Android.
